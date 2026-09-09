@@ -1,4 +1,10 @@
-## Hi there 👋
+👋 Hi, I'm Inako!
+
+Backend: Rust, Java, Python
+<br>
+Frontend: React, JSX, TXS, HTML
+<br>
+ML Infrastructure: LLMs, image classification, text classification
 
 <!--
 **InakoDev/InakoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
