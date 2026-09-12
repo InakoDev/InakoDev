@@ -2,7 +2,7 @@
 
 Backend: Rust, Java, Python
 <br>
-Frontend: React, JSX, TXS, HTML
+Frontend: React, JSX, TXS, CSS
 <br>
 ML Infrastructure: LLMs, image classification, text classification
 
