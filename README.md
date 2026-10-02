@@ -2,9 +2,9 @@
 
 Backend: Rust, Java, Python
 <br>
-Frontend: React, JSX, TXS, CSS
+Frontend: React, JSX, TSX, CSS
 <br>
-ML Infrastructure: LLMs, image classification, text classification
+ML Infrastructure: image classification, text classification, and LMs
 
 <!--
 **InakoDev/InakoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
